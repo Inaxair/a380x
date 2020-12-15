@@ -1,0 +1,8 @@
+<Project Version="2" Name="A380" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\flybywire-aircraft-a380.xml</Package>
+	</Packages>
+</Project>
+

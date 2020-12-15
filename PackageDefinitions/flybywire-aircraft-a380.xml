@@ -1,0 +1,39 @@
+<AssetPackage Name="flybywire-aircraft-a380" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>AIRCRAFT</ContentType>
+		<Title>A380</Title>
+		<Manufacturer>Airbus</Manufacturer>
+		<Creator>FlyByWire Simulations</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>true</VisibleInStore>
+		<CanBeReferenced>true</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\flybywire-aircraft-a380\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\flybywire-aircraft-a380\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\flybywire-aircraft-a380\MarketplaceData\</AssetDir>
+			<OutputDir>MarketplaceData\flybywire-aircraft-a380\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="A380">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Airplanes\A380\</AssetDir>
+			<OutputDir>SimObjects\Airplanes\A380\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
