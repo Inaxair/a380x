@@ -15,12 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "Fuselage",
-            "translation" : [
-                -0.8765596151351929,
-                3.274454355239868,
-                0.021024391055107117
-            ]
+            "name" : "Fuselage"
         }
     ],
     "materials" : [
@@ -73,29 +68,29 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 34855,
+            "count" : 34867,
             "max" : [
                 4.346042633056641,
-                16.66290855407715,
-                33.38632583618164
+                19.66290855407715,
+                24.38632583618164
             ],
             "min" : [
                 -4.346039772033691,
-                -4.871288776397705,
-                -39.092124938964844
+                -1.871288776397705,
+                -48.092124938964844
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 34855,
+            "count" : 34867,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 34855,
+            "count" : 34867,
             "type" : "VEC2"
         },
         {
@@ -108,28 +103,28 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 418260,
+            "byteLength" : 418404,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 418260,
-            "byteOffset" : 418260
+            "byteLength" : 418404,
+            "byteOffset" : 418404
         },
         {
             "buffer" : 0,
-            "byteLength" : 278840,
-            "byteOffset" : 836520
+            "byteLength" : 278936,
+            "byteOffset" : 836808
         },
         {
             "buffer" : 0,
             "byteLength" : 403680,
-            "byteOffset" : 1115360
+            "byteOffset" : 1115744
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 1519040,
+            "byteLength" : 1519424,
             "uri" : "fuse.bin"
         }
     ]
